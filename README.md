@@ -1,5 +1,5 @@
 # Housing Market Bubble Detection
-### Capstone Research Project — Shubham Garg (Grade 10)
+### Capstone Research Project
 **Using Machine Learning & Statistical Methods for Early Warning Signals**
 
 ---
